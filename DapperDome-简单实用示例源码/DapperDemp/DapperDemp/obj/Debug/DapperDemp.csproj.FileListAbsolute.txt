@@ -1,0 +1,26 @@
+c:\users\twinlk_cy\documents\visual studio 2015\Projects\DapperDemp\DapperDemp\bin\Debug\DapperDemp.exe.config
+c:\users\twinlk_cy\documents\visual studio 2015\Projects\DapperDemp\DapperDemp\bin\Debug\DapperDemp.exe
+c:\users\twinlk_cy\documents\visual studio 2015\Projects\DapperDemp\DapperDemp\bin\Debug\DapperDemp.pdb
+c:\users\twinlk_cy\documents\visual studio 2015\Projects\DapperDemp\DapperDemp\bin\Debug\Dapper.dll
+c:\users\twinlk_cy\documents\visual studio 2015\Projects\DapperDemp\DapperDemp\bin\Debug\Dapper.Extension.dll
+c:\users\twinlk_cy\documents\visual studio 2015\Projects\DapperDemp\DapperDemp\bin\Debug\Dapper.pdb
+c:\users\twinlk_cy\documents\visual studio 2015\Projects\DapperDemp\DapperDemp\bin\Debug\Dapper.xml
+c:\users\twinlk_cy\documents\visual studio 2015\Projects\DapperDemp\DapperDemp\obj\Debug\DapperDemp.csprojResolveAssemblyReference.cache
+c:\users\twinlk_cy\documents\visual studio 2015\Projects\DapperDemp\DapperDemp\obj\Debug\DapperDemp.Form1.resources
+c:\users\twinlk_cy\documents\visual studio 2015\Projects\DapperDemp\DapperDemp\obj\Debug\DapperDemp.Properties.Resources.resources
+c:\users\twinlk_cy\documents\visual studio 2015\Projects\DapperDemp\DapperDemp\obj\Debug\DapperDemp.csproj.GenerateResource.Cache
+c:\users\twinlk_cy\documents\visual studio 2015\Projects\DapperDemp\DapperDemp\obj\Debug\DapperDemp.exe
+c:\users\twinlk_cy\documents\visual studio 2015\Projects\DapperDemp\DapperDemp\obj\Debug\DapperDemp.pdb
+C:\Users\Thinkpad\Downloads\DapperDome-简单实用示例源码\DapperDemp\DapperDemp\bin\Debug\DapperDemp.exe.config
+C:\Users\Thinkpad\Downloads\DapperDome-简单实用示例源码\DapperDemp\DapperDemp\obj\Debug\DapperDemp.exe
+C:\Users\Thinkpad\Downloads\DapperDome-简单实用示例源码\DapperDemp\DapperDemp\obj\Debug\DapperDemp.pdb
+C:\Users\Thinkpad\Downloads\DapperDome-简单实用示例源码\DapperDemp\DapperDemp\bin\Debug\DapperDemp.exe
+C:\Users\Thinkpad\Downloads\DapperDome-简单实用示例源码\DapperDemp\DapperDemp\bin\Debug\DapperDemp.pdb
+C:\Users\Thinkpad\Downloads\DapperDome-简单实用示例源码\DapperDemp\DapperDemp\bin\Debug\Dapper.dll
+C:\Users\Thinkpad\Downloads\DapperDome-简单实用示例源码\DapperDemp\DapperDemp\bin\Debug\Dapper.Extension.dll
+C:\Users\Thinkpad\Downloads\DapperDome-简单实用示例源码\DapperDemp\DapperDemp\bin\Debug\Dapper.pdb
+C:\Users\Thinkpad\Downloads\DapperDome-简单实用示例源码\DapperDemp\DapperDemp\bin\Debug\Dapper.xml
+C:\Users\Thinkpad\Downloads\DapperDome-简单实用示例源码\DapperDemp\DapperDemp\obj\Debug\DapperDemp.csprojResolveAssemblyReference.cache
+C:\Users\Thinkpad\Downloads\DapperDome-简单实用示例源码\DapperDemp\DapperDemp\obj\Debug\DapperDemp.Form1.resources
+C:\Users\Thinkpad\Downloads\DapperDome-简单实用示例源码\DapperDemp\DapperDemp\obj\Debug\DapperDemp.Properties.Resources.resources
+C:\Users\Thinkpad\Downloads\DapperDome-简单实用示例源码\DapperDemp\DapperDemp\obj\Debug\DapperDemp.csproj.GenerateResource.Cache

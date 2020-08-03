@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0BE1B5F7-6181-44C1-A09B-E62560EE166A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HY.ORM</RootNamespace>
+    <AssemblyName>HY.ORM</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="DapperExtensions\DapperExtensions.cs" />
+    <Compile Include="DapperExtensions\DapperExtensionsConfiguration.cs" />
+    <Compile Include="DapperExtensions\DapperImplementor.cs" />
+    <Compile Include="DapperExtensions\Database.cs" />
+    <Compile Include="DapperExtensions\GetMultiplePredicate.cs" />
+    <Compile Include="DapperExtensions\GetMultipleResult.cs" />
+    <Compile Include="IDataRepository.cs" />
+    <Compile Include="IDataServiceRepository.cs" />
+    <Compile Include="DapperExtensions\Mapper\AutoClassMapper.cs" />
+    <Compile Include="DapperExtensions\Mapper\ClassMapper.cs" />
+    <Compile Include="DapperExtensions\Mapper\PluralizedAutoClassMapper.cs" />
+    <Compile Include="DapperExtensions\Mapper\PropertyMap.cs" />
+    <Compile Include="DapperExtensions\Predicates.cs" />
+    <Compile Include="DapperExtensions\ReflectionHelper.cs" />
+    <Compile Include="DapperExtensions\Sql\MySqlDialect.cs" />
+    <Compile Include="DapperExtensions\Sql\OracleDialect.cs" />
+    <Compile Include="DapperExtensions\Sql\PostgreSqlDialect.cs" />
+    <Compile Include="DapperExtensions\Sql\SqlCeDialect.cs" />
+    <Compile Include="DapperExtensions\Sql\SqlDialectBase.cs" />
+    <Compile Include="DapperExtensions\Sql\SqlGenerator.cs" />
+    <Compile Include="DapperExtensions\Sql\SqliteDialect.cs" />
+    <Compile Include="DapperExtensions\Sql\SqlServerDialect.cs" />
+    <Compile Include="Dapper\SqlMapper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RepositoryBase.cs" />
+    <Compile Include="RepositoryServiceBase.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HY.DataAccess\HY.DataAccess.csproj">
+      <Project>{b250f22f-b7a7-49a3-a797-af30aa3cb9ac}</Project>
+      <Name>HY.DataAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,12 @@
+F:\ZhaoblTFS\Zeroes\Document\源码资料\Dapper\HY.DataAccess\bin\Debug\HY.DataAccess.dll.config
+F:\ZhaoblTFS\Zeroes\Document\源码资料\Dapper\HY.DataAccess\bin\Debug\HY.DataAccess.dll
+F:\ZhaoblTFS\Zeroes\Document\源码资料\Dapper\HY.DataAccess\bin\Debug\HY.DataAccess.pdb
+F:\ZhaoblTFS\Zeroes\Document\源码资料\Dapper\HY.DataAccess\obj\Debug\HY.DataAccess.dll
+F:\ZhaoblTFS\Zeroes\Document\源码资料\Dapper\HY.DataAccess\obj\Debug\HY.DataAccess.pdb
+C:\Users\Thinkpad\Downloads\HY.All\HY.DataAccess\bin\Debug\HY.DataAccess.dll.config
+C:\Users\Thinkpad\Downloads\HY.All\HY.DataAccess\bin\Debug\HY.DataAccess.dll
+C:\Users\Thinkpad\Downloads\HY.All\HY.DataAccess\bin\Debug\HY.DataAccess.pdb
+C:\Users\Thinkpad\Downloads\HY.All\HY.DataAccess\obj\Debug\HY.DataAccess.csprojAssemblyReference.cache
+C:\Users\Thinkpad\Downloads\HY.All\HY.DataAccess\obj\Debug\HY.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\Downloads\HY.All\HY.DataAccess\obj\Debug\HY.DataAccess.dll
+C:\Users\Thinkpad\Downloads\HY.All\HY.DataAccess\obj\Debug\HY.DataAccess.pdb

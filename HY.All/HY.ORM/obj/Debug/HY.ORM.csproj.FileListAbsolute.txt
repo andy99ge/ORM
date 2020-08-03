@@ -1,0 +1,17 @@
+F:\ZhaoblTFS\Zeroes\Document\源码资料\Dapper\HY.ORM\obj\Debug\HY.ORM.csprojResolveAssemblyReference.cache
+F:\ZhaoblTFS\Zeroes\Document\源码资料\Dapper\HY.ORM\bin\Debug\HY.ORM.dll
+F:\ZhaoblTFS\Zeroes\Document\源码资料\Dapper\HY.ORM\bin\Debug\HY.ORM.pdb
+F:\ZhaoblTFS\Zeroes\Document\源码资料\Dapper\HY.ORM\bin\Debug\HY.DataAccess.dll
+F:\ZhaoblTFS\Zeroes\Document\源码资料\Dapper\HY.ORM\bin\Debug\HY.DataAccess.pdb
+F:\ZhaoblTFS\Zeroes\Document\源码资料\Dapper\HY.ORM\obj\Debug\HY.ORM.dll
+F:\ZhaoblTFS\Zeroes\Document\源码资料\Dapper\HY.ORM\obj\Debug\HY.ORM.pdb
+C:\Users\Thinkpad\Downloads\HY.All\HY.ORM\bin\Debug\HY.ORM.dll
+C:\Users\Thinkpad\Downloads\HY.All\HY.ORM\bin\Debug\HY.ORM.pdb
+C:\Users\Thinkpad\Downloads\HY.All\HY.ORM\bin\Debug\HY.DataAccess.dll
+C:\Users\Thinkpad\Downloads\HY.All\HY.ORM\bin\Debug\HY.DataAccess.pdb
+C:\Users\Thinkpad\Downloads\HY.All\HY.ORM\bin\Debug\HY.DataAccess.dll.config
+C:\Users\Thinkpad\Downloads\HY.All\HY.ORM\obj\Debug\HY.ORM.csprojAssemblyReference.cache
+C:\Users\Thinkpad\Downloads\HY.All\HY.ORM\obj\Debug\HY.ORM.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\Downloads\HY.All\HY.ORM\obj\Debug\HY.ORM.csproj.CopyComplete
+C:\Users\Thinkpad\Downloads\HY.All\HY.ORM\obj\Debug\HY.ORM.dll
+C:\Users\Thinkpad\Downloads\HY.All\HY.ORM\obj\Debug\HY.ORM.pdb
